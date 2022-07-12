@@ -10,7 +10,7 @@ Weighted and Truncated L1 Image Smoothing based on Unsupervised Learning
 2. python train.py
 
 ## Visual Results
-<div align=center><img src="img/smooth1.PNG" width="1000"  /></div>
+![image](img/smooth1.PNG)
 Comparison of smoothed images by different methods on the image 11_11 from RTV dataset.
 <div align=center><img src="img/smooth2.PNG" width="1000"  /></div>
 Comparison of smoothed images by different methods on the image 0334 from 500images dataset.
