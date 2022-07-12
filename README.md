@@ -4,18 +4,6 @@
 
 Weighted and Truncated L1 Image Smoothing based on Unsupervised Learning
 
-#### 实现细节
-
-1. Network structure: The network adopts 15-layer Unet structure. Each of the first 14 layers is composed of 3 convolutional layers followed by Batchnorm and RELU activation function. The last layer is directly convolutional layer followed by Sigmoid function.  The first 7 layers down-sample the image to 1/2 layer by layer, and the last 7 layers up-sample the image to restore the original image size.  Add skip layer corresponding to the first 7 and the last 7 to add the previous output to the following input. 
-
-2. loss function：
-
-$$
-(O - I)^2 + \lambda(W_x*|O_x - I'_x| + W_y*|O_y - I'_y|)
-$$
-， $W_x$ is $exp(-∂^2Ix / 2σ^2)$， $I'_x$ is the gradient of image $I$ truncated by σ。
-
-
 #### Instructions
 
 1. python test.py 
