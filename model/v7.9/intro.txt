@@ -1,0 +1,5 @@
+net structure: net->Unet.py->Unet input:5channel
+λ：0 - 5
+σ：0.001-0.5
+测试效果：
+正常
