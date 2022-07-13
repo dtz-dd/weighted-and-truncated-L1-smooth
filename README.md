@@ -1,6 +1,6 @@
 # weighted and truncated L1 smooth
 
-#### 介绍
+#### introduction
 
 Weighted and Truncated L1 Image Smoothing based on Unsupervised Learning
 
