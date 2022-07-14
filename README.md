@@ -14,7 +14,6 @@ Code for Weighted and Truncated L1 Image Smoothing based on Unsupervised Learnin
 #### Comparison of smoothed images by different methods.
 
 <div align=center><img src="img/smooth1.PNG" width="1000"  /></div>
-<div align=center><img src="img/smooth2.PNG" width="1000"  /></div>
 
 #### Comparison of enhance images by different methods.
 <div align=center><img src="img/enhance.PNG" width="800"  /></div>
