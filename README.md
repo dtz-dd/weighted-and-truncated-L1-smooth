@@ -7,9 +7,9 @@ This page contains source code, trained model, and more results of the filter fo
 ## Instructions
 ### Prepare Environment
 - python = 3.8.6
-pytorch = 1.7.1
-cv2 = 4.4.0
-tensorboardX = 2.1
+- pytorch = 1.7.1
+- cv2 = 4.4.0
+- tensorboardX = 2.1
 ### Usage  
 1. python test.py  
 2. python train.py
