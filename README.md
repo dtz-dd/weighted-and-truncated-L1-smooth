@@ -16,14 +16,14 @@ This page contains source code, trained model, and more results of the filter fo
 
 ### More Visual Results
 
-#### Comparison of smoothed images by different methods.
+#### Comparison of image smoothing between different methods.
 
 <div align=center><img src="img/smooth1.PNG" width="1000"  /></div>
 
-#### Comparison of enhance images by different methods.
+#### Comparison of image enhancing between different methods.
 <div align=center><img src="img/enhance.PNG" width="800"  /></div>
 
-#### Comparison of edge images by different methods.
+#### Comparison of edge detection between different methods.
 <div align=center><img src="img/edge.PNG" width="800"  /></div>
 <div align=center><img src="img/edge1.PNG" width="800"  /></div>
 
